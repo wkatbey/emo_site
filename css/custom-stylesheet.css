@@ -47,6 +47,11 @@
 	margin: auto;
 }
 
+.image-column {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
 /*Buttons*/
 .btn-oval {
 	border-radius: 25px;
@@ -57,4 +62,10 @@
 	margin-top: 200px;
 	width: 500px;
 	text-align: center;
+}
+
+/*Images*/
+.display-image {
+	height: 60%;
+	width: auto;
 }
